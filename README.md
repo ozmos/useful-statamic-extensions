@@ -10,4 +10,7 @@ Iconamic is an SVG icon picker fieldtype and tag for Statamic 3.
 
 ### [Sitemapamic](https://statamic.com/addons/mity-digital/sitemapamic)
 
+## Bard
+### [Bard Text Color Picker](https://statamic.com/addons/new-data-services/bard-color-picker)
+Text color picker with swatches for Bard fields
 
